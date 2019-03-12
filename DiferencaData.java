@@ -12,7 +12,7 @@ import java.util.GregorianCalendar;
 
 /**
  *
- * @author ALEX CD's
+ * @authorLUIZ LAURO SILVA GOMÇALVES
  */
 public class DiferencaData {
 
